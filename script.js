@@ -1,4 +1,4 @@
-const specificDate = new Date("8/1/2003");
+const specificDate = new Date("7/1/2003");
 const elapsedTimeParagraph = document.getElementById("elapsed-time");
 setInterval(() => {
 const now = new Date();
